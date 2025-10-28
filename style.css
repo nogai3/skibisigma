@@ -1,5 +1,10 @@
-.content {
+body {
     background-color: #30302f;
+    font: 16px Arial, sans-serif;
+    color: #edece8;
+    margin: 2em;
+    line-height: 1.6;
+
 }
 
 .content h1, h2, h3, h4, h5, h6 {
